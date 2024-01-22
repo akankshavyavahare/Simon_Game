@@ -2,11 +2,11 @@ body{
     text-align: center;
 }
 .btn{
-    height:200px;
-    width:200px;
+    height:170px;
+    width:170px;
     border-radius: 20%;
     border:10px solid black;
-    margin:2.5rem;
+    margin:1.5rem;
 }
 
 .box-container{
